@@ -1,0 +1,23 @@
+# MATLAB / Simulink temp files
+slprj/
+*slxc
+*.mex*
+*.asv
+*.autosave
+*.mexa64
+*.mexw64
+*.m~
+*.tmp
+*.cache/
+*.r2013b
+
+# Logs
+*.log
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Build artifacts
+*.matcached
